@@ -1,3 +1,3 @@
-# kolombo is beautiful
+# Kolombo is beautiful.
 
-I love that city
+`I love that city`
